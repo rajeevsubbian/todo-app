@@ -1,5 +1,2 @@
-Learn
-Stand up
-SOS
-Goals
-What will I do
+item 3
+item 4
